@@ -35,7 +35,7 @@ Final Year BTech | Aspiring Software Development Engineer
 <p align="center">
 <b>Databases:</b><br>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="22"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=mysql&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/MYSQL-4169E1?style=flat&logo=mysql&logoColor=white" height="22"/>
 </p>
 
 <p align="center">

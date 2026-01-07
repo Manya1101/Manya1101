@@ -30,7 +30,7 @@ Final Year BTech | Aspiring Software Development Engineer
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb ,mysql" />
 </p>
 
 ### 🧰 Tools & Services
@@ -40,24 +40,6 @@ Final Year BTech | Aspiring Software Development Engineer
 
 ---
 
-## 🚀 Featured Projects
-- 📌 **StudyPilot** – Smart Study Scheduler (MERN)
-- 📌 **FriendBook** – Social media web application
-  
----
-
-## 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Manya1101&show_icons=true" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=Manya1101" />
-</p>
-
----
-
 ## 📫 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com)
-- 📧 Email: your-email@gmail.com
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/manya-aggarwal-961980249/)
+- 📧 Email:manyaaggarwal1103@gmail.com

@@ -7,40 +7,44 @@ Final Year BTech | Aspiring Software Development Engineer
 </p>
 
 ---
+<h2 align="center">🚀 <span style="color:#7C3AED;">About Me</span></h2>
 
-## 🚀 About Me
-- 🎓 Final-year BTech student 
-- 💻 Full-Stack developer (MERN)
-- 🧠 Strong in Data Structures & Algorithms (250+ LeetCode)
-- 🌱 Currently preparing for SDE roles & internships
+<p align="center">
+🎓 <b>Final-year BTech student</b> <br>
+💻 <span style="color:#2563EB;">Full-Stack Developer (MERN)</span> <br>
+🧠 <span style="color:#059669;">Strong in DSA</span> (250+ LeetCode) <br>
+🌱 Preparing for <span style="color:#DC2626;">SDE roles & internships</span>
+</p>
 
 ---
 
-## 🛠️ My Tech Stack
+<h2 align="center">🛠️ <span style="color:#7C3AED;">My Tech Stack</span></h2>
 
-### 👩‍💻 Languages
-<p>
+<h3 align="center">👩‍💻 <span style="color:#2563EB;">Languages</span></h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js" />
 </p>
 
-### ⚙️ Frameworks & Libraries
-
+<h3 align="center">⚙️ <span style="color:#2563EB;">Frameworks & Libraries</span></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,express,mongodb,react" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 </p>
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb ,mysql" />
+<h3 align="center">🗄️ <span style="color:#2563EB;">Databases</span></h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🧰 Tools & Services
-<p>
+<h3 align="center">🧰 <span style="color:#2563EB;">Tools & Services</span></h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
 
-## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/manya-aggarwal-961980249/)
-- 📧 Email:manyaaggarwal1103@gmail.com
+<h2 align="center">📫 <span style="color:#7C3AED;">Connect With Me</span></h2>
+
+<p align="center">
+💼 <a href="https://linkedin.com/in/YOUR-LINK" style="color:#2563EB;">LinkedIn</a> <br>
+📧 <a href="mailto:manyaaggarwal1103@gmail.com" style="color:#059669;">manyaaggarwal1103@gmail.com</a>
+</p>

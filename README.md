@@ -24,8 +24,9 @@ Final Year BTech | Aspiring Software Development Engineer
 </p>
 
 ### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,express,mongodb,react" />
 </p>
 
 ### 🗄️ Databases

@@ -18,26 +18,26 @@ Final Year BTech | Aspiring Software Development Engineer
 
 ---
 
-<h2 align="center">🛠️ <span style="color:#7C3AED;">My Tech Stack</span></h2>
+<h3 align="center">🛠️ <span style="color:#7C3AED;">Tech Stack</span></h3>
 
-<h3 align="center">👩‍💻 <span style="color:#2563EB;">Languages</span></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js" />
+<b>Languages</b> <br>
+<img src="https://skillicons.dev/icons?i=cpp,js" />
 </p>
 
-<h3 align="center">⚙️ <span style="color:#2563EB;">Frameworks & Libraries</span></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+<b>Frameworks & Libraries</b> <br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 </p>
 
-<h3 align="center">🗄️ <span style="color:#2563EB;">Databases</span></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<b>Databases</b> <br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 </p>
 
-<h3 align="center">🧰 <span style="color:#2563EB;">Tools & Services</span></h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+<b>Tools & Services</b> <br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,aws" />
 </p>
 
 ---
@@ -45,6 +45,6 @@ Final Year BTech | Aspiring Software Development Engineer
 <h2 align="center">📫 <span style="color:#7C3AED;">Connect With Me</span></h2>
 
 <p align="center">
-💼 <a href="https://linkedin.com/in/YOUR-LINK" style="color:#2563EB;">LinkedIn</a> <br>
-📧 <a href="mailto:manyaaggarwal1103@gmail.com" style="color:#059669;">manyaaggarwal1103@gmail.com</a>
+<a href="https://linkedin.com/in/YOUR-LINK" style="color:#2563EB;">LinkedIn</a> <br>
+<a href="mailto:manyaaggarwal1103@gmail.com" style="color:#059669;">manyaaggarwal1103@gmail.com</a>
 </p>

@@ -17,7 +17,7 @@ Final Year BTech | Aspiring Software Development Engineer
 </p>
 
 ---
-<h2 align="center"><span style="color:#7C3AED;">Tech Stack</span></h2>
+<h2 align="center"><span style="color:#7C3AED;">My Tech Stack: </span></h2>
 
 <p align="center">
 <b>Languages:</b><br>
